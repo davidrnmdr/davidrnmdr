@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="assets/cover.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="assets/cover_cropped.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">From Maryland 🇺🇸, currently living at São Paulo :brazil: <br><br> An enormous curiosity, I am <strong>passionate to discover new stuff</strong> and use them to solve problems with high quality solutions.</p>&nbsp;
