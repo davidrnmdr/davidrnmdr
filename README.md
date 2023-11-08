@@ -14,13 +14,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 &nbsp;
 
-
-![US](https://img.shields.io/badge/made%20in%20USA-gray.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBmaWxsPSIjRkZGIiB2aWV3Qm94PSIwIDAgMTIzNSA2NTAiPjxwYXRoIGQ9Ik0wIDBoMTIzNXY2NTBIMCIvPjxwYXRoIHN0cm9rZT0iI2IyMjIzNCIgc3Ryb2tlLWRhc2hhcnJheT0iNTAiIHN0cm9rZS13aWR0aD0iMjQ3MCIgZD0iTTAgMHY2NTEiLz48cGF0aCBmaWxsPSIjM2MzYjZlIiBkPSJNMCAwaDQ5NHYzNTBIMCIvPjxnIGlkPSJlIj48ZyBpZD0iZCI+PGcgaWQ9ImYiPjxnIGlkPSJjIj48ZyBpZD0iYiI+PHBhdGggaWQ9ImEiIGQ9Im0zMCA1MC42IDEyLTM2IDEyIDM2LTMwLjgtMjJINjEiLz48dXNlIHhsaW5rOmhyZWY9IiNhIiB4PSI4MiIvPjwvZz48dXNlIHhsaW5rOmhyZWY9IiNiIiB4PSIxNjQiLz48dXNlIHhsaW5rOmhyZWY9IiNhIiB4PSIzMjgiLz48L2c+PHVzZSB4bGluazpocmVmPSIjYSIgeD0iNDEwIi8+PC9nPjx1c2UgeGxpbms6aHJlZj0iI2MiIHg9IjQxIiB5PSIzNSIvPjwvZz48dXNlIHhsaW5rOmhyZWY9IiNkIiB5PSI3MCIvPjwvZz48dXNlIHhsaW5rOmhyZWY9IiNlIiB5PSIxNDAiLz48dXNlIHhsaW5rOmhyZWY9IiNmIiB5PSIyODAiLz48L3N2Zz4=)&nbsp;
-
-
-
-
-
 <p align="center">From Maryland 🇺🇸, currently living at São Paulo :brazil: <br><br> An enormous curiosity, I am <strong>passionate to discover new stuff</strong> and use them to solve problems with high quality solutions.</p>&nbsp;
  
 - 📚​ Computer Science student at Federal University of São Paulo - (UNIFESP) &nbsp;
