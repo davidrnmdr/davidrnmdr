@@ -48,7 +48,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 
-<img src="assets/side_test.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="assets/side_compressed.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 
