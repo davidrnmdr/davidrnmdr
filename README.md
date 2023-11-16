@@ -9,11 +9,15 @@
 &nbsp;
 
 <p align="center">From Maryland 🇺🇸, currently living at São Paulo :brazil: <br><br> An enormous curiosity, I am <strong>passionate to discover new stuff</strong> and use them to solve problems with high quality solutions.</p>&nbsp;
+ <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=davidrnmdr&theme=rising-sun&card_width=400&stroke=FA5606&border=FA5606" min-width="400px" max-width="400px" width="400px" align="right" alt="Stats">
+- 📚​ Computer Science student at Federal University of São Paulo - (UNIFESP) &nbsp;<br>
+- 🌱 I’m currently learning React, NodeJS and Java &nbsp;<br>
+- 💬 Ask me about TypeScript&nbsp;<br>
+- ⚡ Fun fact: Math addict&nbsp;<br>
+
  
-- 📚​ Computer Science student at Federal University of São Paulo - (UNIFESP) &nbsp;
-- 🌱 I’m currently learning React, NodeJS and Java &nbsp;
-- 💬 Ask me about TypeScript&nbsp;
-- ⚡ Fun fact: Math addict&nbsp;
+
+
  
  &nbsp;
  &nbsp;
@@ -35,7 +39,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 
-<img src="assets/side_compressed.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="assets/side_compressed.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+
 
 
 
@@ -57,6 +62,7 @@
 
 &nbsp;
 &nbsp;
+
 
 ## Contacts:
 
